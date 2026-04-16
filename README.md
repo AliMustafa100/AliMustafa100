@@ -2,7 +2,7 @@
   Hi, I'm <a href="https://ali-mustafa.vercel.app/" target="_blank">Ali Mustafa! </a>
 </h1>
 
-<h3 align="center">A Software Developer from New York!</h3>
+<h3 align="center">A Software Developer from New York :) </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alimustafa100&label=Profile%20views&color=0e75b6&style=flat" alt="alimustafa100" />
