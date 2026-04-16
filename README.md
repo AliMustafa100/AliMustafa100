@@ -1,4 +1,7 @@
-<h1 align="center">What's up! My name is Ali Mustafa <a href='https://ali-mustafa.vercel.app/' /> </h1>
+<h1 align="center">
+  Hi, I'm <a href="https://ali-mustafa.vercel.app/" target="_blank">Ali Mustafa</a>
+</h1>
+
 <h3 align="center">A Software Developer from New York!</h3>
 
 <p align="center">
