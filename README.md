@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm <a href="https://ali-mustafa.vercel.app/" target="_blank">Ali Mustafa</a>
+  Hi, I'm <a href="https://ali-mustafa.vercel.app/" target="_blank">Ali Mustafa! </a>
 </h1>
 
 <h3 align="center">A Software Developer from New York!</h3>
