@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=alimustafa100&label=Profile%20views&color=0e75b6&style=flat" alt="alimustafa100" />
 </p>
 
-- 🔭 I’m currently at Ssender.ai [Ssender.ai](https://www.linkedin.com/company/ssender-ai/)
+- 🔭 I’m currently at open to opportunities! :D
 - 🌱 I’m currently learning **TypeScript and React**
-- 💬 Ask me about **anything, I am a huge fan of anime and comics**
+- 💬 Ask me about anything, I am a huge fan of anime , comics, video games, cooking, and physical fitness. 
 - 📫 How to reach me **Mohammadali7477@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
