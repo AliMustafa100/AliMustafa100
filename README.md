@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **TypeScript and React**
 - 💬 Ask me about anything, I am a huge fan of anime , comics, video games, cooking, and physical fitness. 
 - 📫 How to reach me **Mohammadali7477@gmail.com**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ali-mustafa2003" target="_blank">
