@@ -39,16 +39,8 @@ Currently doing freelance web dev, tutoring on the side, and looking to take my 
 
 ---
 
-## 📊 By the Numbers
 
-- 💳 **$5.5K+** in payments processed via Stripe integrations I built
-- 📈 **70%** increase in subscription sign-ups from redesigned form flows
-- 🤖 **~30%** reduction in manual data entry via Google Vision OCR automation
-- 👩‍🏫 **40%** improvement in student progress from Python curriculum I designed for K–6
-
----
-
-## Outside the Code
+## Hobbies heh
 
 ⚔️ Big anime fan — top 3 are **FMAB**, **One Piece**, and **Gintama** (taste is immaculate, don't @ me)  
 🏋️ Lifting is a non-negotiable part of my week  
