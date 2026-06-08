@@ -8,9 +8,9 @@
 
 ## About Me
 
-CS student at Queens College (CUNY) who's been building real things for real people — from custom client websites to data pipelines to full-stack web apps. I love working across the stack and I'm always chasing the next thing to learn. Whether it's automating a broken workflow or designing a dashboard from scratch, I'm happiest when the work actually matters to someone.
+Recent CS grad from Queens College (CUNY, May 2025) who's been building real things for real people — from custom client websites to data pipelines to full-stack web apps. What drives me most is the intersection of tech and people: understanding what someone actually needs, then building something that delivers it. Whether it's a Stripe flow that converts or a dashboard that finally makes data make sense to someone, I'm happiest when the work lands.
 
-Currently doing freelance web dev, tutoring on the side, and looking to take my career well beyond New York.
+NYC native, but my ambitions don't stop at the five boroughs.
 
 ---
 
@@ -39,8 +39,7 @@ Currently doing freelance web dev, tutoring on the side, and looking to take my 
 
 ---
 
-
-## Hobbies heh
+## Hobbies Heh
 
 ⚔️ Big anime fan — top 3 are **FMAB**, **One Piece**, and **Gintama** (taste is immaculate, don't @ me)  
 🏋️ Lifting is a non-negotiable part of my week  
@@ -49,4 +48,4 @@ Currently doing freelance web dev, tutoring on the side, and looking to take my 
 
 ---
 
-Open to **full-stack / software engineering roles** — NYC or anywhere else. Let's build something.
+Looking for roles where I can be the bridge between great technology and the people using it — Solutions Engineering, Technical Account Management, or any place where talking to customers and shipping code aren't two separate jobs. NYC native, open everywhere.
