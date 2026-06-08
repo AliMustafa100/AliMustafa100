@@ -1,48 +1,60 @@
-<h1 align="center">
-  Hi, I'm <a href="https://ali-mustafa.vercel.app/" target="_blank">Ali Mustafa! </a>
-</h1>
+# Hi, I'm Ali Mustafa 👋
 
-<h3 align="center">A Software Developer from New York :) </h3>
+**Software Engineer** · Python · TypeScript · React · Full-Stack
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=alimustafa100&label=Profile%20views&color=0e75b6&style=flat" alt="alimustafa100" />
-</p>
+📍 New York, NY &nbsp;|&nbsp; 📫 mohammadali7477@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](#) &nbsp;|&nbsp; 🌐 [Portfolio](#)
 
-- 🔭 I’m currently at open to opportunities! :D  
-- 🌱 I’m currently learning **TypeScript and React**
-- 💬 Ask me about anything, I am a huge fan of anime , comics, video games, cooking, and physical fitness. 
-- 📫 How to reach me **Mohammadali7477@gmail.com**
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ali-mustafa2003" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Mustafa LinkedIn" height="30" width="40" />
-  </a>
-</p> 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## About Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
-</p>
-  </a>
-</p>
+CS student at Queens College (CUNY) who's been building real things for real people — from custom client websites to data pipelines to full-stack web apps. I love working across the stack and I'm always chasing the next thing to learn. Whether it's automating a broken workflow or designing a dashboard from scratch, I'm happiest when the work actually matters to someone.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alimustafa100&show_icons=true&locale=en&layout=compact" alt="alimustafa100" />
-</p>
+Currently doing freelance web dev, tutoring on the side, and looking to take my career well beyond New York.
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 💼 Experience
+
+| Company | Role | Period |
+|--------|------|--------|
+| **Independent** | Web Developer (Freelance) | Sep 2025 – Present |
+| **Blackstone Launch Pad** | Software Engineer Intern | Jun – Aug 2025 |
+| **Everest Associates** | Software Engineer Intern | Jul – Sep 2024 |
+| **StudentsWhoCode** | Software Engineer Intern | Jun – Sep 2023 |
+
+---
+
+## 📊 By the Numbers
+
+- 💳 **$5.5K+** in payments processed via Stripe integrations I built
+- 📈 **70%** increase in subscription sign-ups from redesigned form flows
+- 🤖 **~30%** reduction in manual data entry via Google Vision OCR automation
+- 👩‍🏫 **40%** improvement in student progress from Python curriculum I designed for K–6
+
+---
+
+## Outside the Code
+
+⚔️ Big anime fan — top 3 are **FMAB**, **One Piece**, and **Gintama** (taste is immaculate, don't @ me)  
+🏋️ Lifting is a non-negotiable part of my week  
+🧗 Recently got into rock climbing — currently a V4, working my way up the wall  
+📖 Tutoring on the side and genuinely love helping people click with hard concepts
+
+---
+
+Open to **full-stack / software engineering roles** — NYC or anywhere else. Let's build something.
