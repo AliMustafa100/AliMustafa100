@@ -8,9 +8,9 @@
 
 ## About Me
 
-Recent CS grad from Queens College (CUNY, May 2025) who's been building real things for real people — from custom client websites to data pipelines to full-stack web apps. What drives me most is the intersection of tech and people: understanding what someone actually needs, then building something that delivers it. Whether it's a Stripe flow that converts or a dashboard that finally makes data make sense to someone, I'm happiest when the work lands.
+Recent CS grad from Queens College (CUNY, May 2025) who's been building real things for real people , from custom client websites to data pipelines to full-stack web apps. What I want to do most is work at the intersection of tech and people: understanding what someone actually needs, then building something that delivers it. 
 
-NYC native, but my ambitions don't stop at the five boroughs.
+NYC native, but my ambitions don't stop at the five boroughs, keh.
 
 ---
 
