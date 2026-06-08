@@ -41,7 +41,7 @@ NYC native, but my ambitions don't stop at the five boroughs, keh.
 
 ## Hobbies Heh
 
-⚔️ Big anime fan — top 3 are **FMAB**, **One Piece**, and **Gintama** (taste is immaculate, don't @ me)  
+⚔️ Big anime fan — top 3 are **FMAB**, **One Piece**, and **Gintama** (W take)  
 🏋️ Lifting is a non-negotiable part of my week  
 🧗 Recently got into rock climbing — currently a V4, working my way up the wall  
 📖 Tutoring on the side and genuinely love helping people click with hard concepts
