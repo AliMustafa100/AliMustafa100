@@ -4,7 +4,7 @@
 
 📍 New York, NY &nbsp;|&nbsp; 📫 mohammadali7477@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](#) &nbsp;|&nbsp; 🌐 [Portfolio](#)
 
----
+--- 
      
 ## About Me
 
