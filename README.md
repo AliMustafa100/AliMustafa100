@@ -1,7 +1,7 @@
 # Hi, I'm Ali Mustafa 👋
     
 **Software Engineer** · Python · TypeScript · React · Full-Stack
-
+ 
 📍 New York, NY &nbsp;|&nbsp; 📫 mohammadali7477@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](#) &nbsp;|&nbsp; 🌐 [Portfolio](#)
 
 --- 
