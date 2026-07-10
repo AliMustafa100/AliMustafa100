@@ -5,7 +5,7 @@
 📍 New York, NY &nbsp;|&nbsp; 📫 mohammadali7477@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](#) &nbsp;|&nbsp; 🌐 [Portfolio](#)
 
 --- 
-## About Me
+## About Me 
 
 Recent CS grad from Queens College (CUNY, May 2026) who's been building real things for real people , from custom client websites to data pipelines to full-stack web apps. What I want to do most is work at the intersection of tech and people: understanding what someone actually needs, then building something that delivers it. 
  
